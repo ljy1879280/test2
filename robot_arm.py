@@ -5,6 +5,7 @@ import time
 import datetime
 import math
 import json
+#i am a pig
 #import smbus
 import socket
 import numpy as np
